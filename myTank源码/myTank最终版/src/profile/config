@@ -1,0 +1,4 @@
+initTankCount=15
+colliders=BulletTankCollider,BulletWallCollider,TankWallCollider,TankTankCollider,BulletBulletCollider,LandmineTankCollider,TankBigExplodeCollider,stragegyTankCollider
+gameWidth=1560
+gameHeight=900
